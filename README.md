@@ -1,1 +1,1 @@
-# .github
+# Safety & Trustworthy AI Research Group
